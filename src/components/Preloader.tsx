@@ -36,8 +36,8 @@ export default function Preloader() {
             transition={{ delay: 0.5 }}
             className="text-center"
           >
-            <h1 className="font-serif text-3xl md:text-4xl text-blue-900 font-bold mb-2">
-              Hello Doctor
+            <h1 className="font-serif text-2xl md:text-4xl text-blue-900 font-bold mb-2">
+              Oasis Klinik Ara Damansara
             </h1>
             <motion.div 
               initial={{ width: 0 }}
